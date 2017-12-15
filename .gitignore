@@ -4,6 +4,7 @@ logs/*.log
 !.gitignore
 node_modules/*
 .project
+.idea
 .settings/
 **/*.svn
 *.svn
