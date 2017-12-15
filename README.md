@@ -10,7 +10,7 @@ pomelo-robot can be also used in http benchmark with developer script.
 
 ##Installation
 ```
-npm install pomelo-robot
+npm install pomelo-robot-abcs
 ```
 
 ##Usage
