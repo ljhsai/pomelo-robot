@@ -13,7 +13,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/NetEase/pomelo-robot.git"
+    "url": "git://github.com/ljhsai/pomelo-robot.git"
   },
   "keywords": [
     "pomelo",
